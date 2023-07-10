@@ -1,5 +1,7 @@
 <img src="https://d00x.de/!/logo.png" title="" alt="" data-align="center">
 
+---
+
 **Hello I'm d00x and a White-Hat!**
 
 I work in cyber security and my passion alongside my job is programming and developing software and apps!
