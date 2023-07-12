@@ -1,4 +1,4 @@
-<center><img title="Logo" src="https://d00x.de/!/d00x-logo.png" alt="" data-align="center">
+<center><img title="Logo" src="https://d00x.de/!/d00x-logo.png" alt="" data-align="center"></center>
 
 ---
 
