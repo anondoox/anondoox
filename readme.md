@@ -4,7 +4,7 @@
 
 **Hello I'm d00x and a WhiteHat!**
 
-I work in cyber security and as Full Stack Developer. My passion alongside my job is programming and developing software and apps!
+I work in cyber security and as Full Stack Developer. My passion alongside my job is programming, web design and developing software and apps!
 
 Much or almost everything that is not forked is set to private here because I only use GitHub for private purposes.
 
